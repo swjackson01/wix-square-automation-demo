@@ -1,0 +1,1 @@
+# wix-square-automation-demo
